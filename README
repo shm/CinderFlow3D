@@ -1,0 +1,15 @@
+CinderFlow 3D
+=============
+
+Emitters & particles in a 3D World.
+Based on "cinderflow" (https://github.com/hpeikemo/CinderFlow) by @hpeikemo & the cinder "flocking" tutorial.
+
+Made with cinder http://libcinder.org/.
+
+About
+-----
+Dummy project to refresh my c++ skills and play with the cinder framework.
+Used 'cinderflow' by @hpeikemo and moved the particles into a 3d world.
+
+(the vector-field is still buggy ..)
+
